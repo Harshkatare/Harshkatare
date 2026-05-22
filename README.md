@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Harshkatare&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Top Langs](https://vercel.app)](https://github.com/Harshkatare/github-readme-stats)
+
 <!--
 **Harshkatare/Harshkatare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
